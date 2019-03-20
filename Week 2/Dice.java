@@ -10,6 +10,7 @@ import java.lang.Math;
 public class Dice
 {
     //comment
+    //try comment
     // instance variables - replace the example below with your own
     private int faceUp;
 
